@@ -1,0 +1,1 @@
+babel src/app.js --watch --out-file=public/scripts/app.js --presets=env,react
